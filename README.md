@@ -63,8 +63,7 @@
 
   ;; good 
   (create-account! ...)
-
-```
+  ```
 
 <a name="naming-conventions--funcs-converting-data-types"></a><a name="1.5"></a>
 - [1.5](#naming-conventions--funcs-converting-data-types) **Functions which perform conversions**: When naming functions that produce their input in a different data format, use `->` in the name.
